@@ -18,7 +18,7 @@
 }
 
 .main-head-image{
-    background-image: url(image/head1.gif);
+    background-image: url(/head1.gif);
     padding-bottom: 400px;
 }
 .head-image{
@@ -126,7 +126,7 @@ i{
     margin-right: 10px;
 }
 .contact-image{
-background-image: url(image/image6.webp);
+background-image: url(/image6.webp);
 padding-bottom: 60px;
 
 }
@@ -172,7 +172,7 @@ padding: 3rem;
 }
 
 .service-head-img {
-    background-image: url(image/service-head-image4.gif);
+    background-image: url(/service-head-image4.gif);
     padding-bottom: 150px;
     
    
@@ -188,7 +188,7 @@ padding: 3rem;
 }
 .service-contact-info{
     padding-top: 50px;
-    background-image: url(image/need-an-answer-bg.webp);
+    background-image: url(/need-an-answer-bg.webp);
    padding-bottom: 60px;
 }
 .service-contact-text{
